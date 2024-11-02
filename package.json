@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "express": "^4.19.2",
+    "middleware": "^1.0.0",
+    "mongoose": "^8.3.2"
+  }
+}
